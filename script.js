@@ -1,4 +1,4 @@
-const inputs = document.querySelectorAll(".input");
+const inputs = document.querySelectorAll("#input");
 
 const handLeFocus = ({ target }) => {
     const span = target.previousElementSibling;
